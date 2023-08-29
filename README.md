@@ -9,4 +9,5 @@ The project present a method to solve trusses using Matlab interactively.
 
 ## How to solve a truss using this application
 1. We shall use [problem 3.7 (2 d) from this page](https://learnaboutstructures.com/Chapter-3-Practice-Problems) to demonstrate how to use this aplication
-2. 
+2. Enter the incremental xtick positions for the nodes on the structure in the xTicks field and click on the UIAxis for update. For this problem, thats "1.5,0.5,1,2,2,2,2".
+3. ![alt text](https://github.com/talk2laton/Solve_Trusses_Matlab/blob/main/xtick.png)
